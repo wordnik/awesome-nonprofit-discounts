@@ -1,6 +1,7 @@
 # Contributors' Guide
 
-Thank you very much for contributing to this list!
+Thank you very much for contributing to this list! 
+By contributing, you agree to follow our [code of conduct](/code-of-conduct.md).
 
 ### Please only include services offering discounts that are: 
 
