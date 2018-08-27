@@ -28,3 +28,7 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [Stripe](https://support.stripe.com/questions/does-stripe-offer-a-fee-discount-for-non-profit-organizations)
   - email to sign up
 
+## Search
+
+* [Algolia](https://www.algolia.com/for-open-source)
+  - 100k records and 200k operations monthly
