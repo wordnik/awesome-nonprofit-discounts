@@ -5,7 +5,7 @@ A list of awesome companies who discount their software and services for nonprof
 
 ## Umbrella Orgs
 
-* [TechSoup] (https://www.techsoup.org/)
+* [TechSoup](https://www.techsoup.org/)
   - offers access to [Google For Nonprofits](https://www.google.com/nonprofits/)
   - only way to get [AWS credits for nonprofits](https://aws.amazon.com/government-education/nonprofits/programs/#programs)
 
