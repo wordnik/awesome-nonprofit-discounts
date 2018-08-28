@@ -27,6 +27,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 * [Stripe](https://support.stripe.com/questions/does-stripe-offer-a-fee-discount-for-non-profit-organizations)
   - email to sign up
+  
+## Project Management
+	
+* [Basecamp](https://basecamp.com/discounts)
+  - 10% discount
 
 ## Search
 
