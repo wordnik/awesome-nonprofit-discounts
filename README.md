@@ -12,6 +12,10 @@ A list of awesome companies who discount their software and services for nonprof
 ## Services
 All services require 501c3 determination letter unless otherwise indicated.
 
+## Alerts
+
+* [PagerDuty](https://www.pagerduty.com/foundation/)
+  - 10 free licenses for Platform Team
 
 ## Mailing
 	
