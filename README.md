@@ -18,6 +18,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [PagerDuty](https://www.pagerduty.com/foundation/)
   - 10 free licenses for Platform Team
 
+## CMS
+
+* [Kentico CMS](https://www.kentico.com/download-demo/free-cms-for-asp-net)
+  - Get a free CMS for ASP.NET license for commercial and personal use
+
 ## Collaboration
 
 * [Slack](https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits-program)
