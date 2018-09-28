@@ -47,6 +47,8 @@ All services require 501c3 determination letter unless otherwise indicated.
   
 ## Project Management
 	
+* [Atlassian](https://www.atlassian.com/software/views/community-license-request?_ga=2.70501202.370984657.1538043591-445688261.1538043591)
+  - Atlassian software is free for use by registered non-profit charitable organisations
 * [Basecamp](https://basecamp.com/discounts)
   - 10% discount
 
@@ -54,4 +56,9 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 * [Algolia](https://www.algolia.com/for-open-source)
   - 100k records and 200k operations monthly
+  
+## Source control
+
+* [GitHub](https://github.com/nonprofit)
+  - Organization account with unlimited private repositories and unlimited users
   
