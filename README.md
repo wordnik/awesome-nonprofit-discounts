@@ -45,7 +45,9 @@ All services require 501c3 determination letter unless otherwise indicated.
 ## Monitoring/Analysis
 
 * [Splunk](https://www.splunk.com/en_us/about-us/splunk-pledge/nonprofit-license-application.html)
-  -  one-year, 10GB license   
+  -  one-year, 10GB license 
+* [New Relic](https://newrelic.com/nonprofit)
+  - Up to 5 hosts of New Relic APM Pro FREE and more
 
 ## Payment processing
 
