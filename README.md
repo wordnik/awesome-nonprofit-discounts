@@ -34,6 +34,8 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 * [Canva](https://support.canva.com/account-basics/nonprofit-program/apply-for-nonprofit/)
   - Canva for work features for upto 10 team members
+* [LogoJump](https://logojump.com/)
+  - Custom human made logos. 80% off on any package 
   
 ## Mailing
 	
