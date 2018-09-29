@@ -64,6 +64,8 @@ All services require 501c3 determination letter unless otherwise indicated.
   - Atlassian software is free for use by registered non-profit charitable organisations
 * [Basecamp](https://basecamp.com/discounts)
   - 10% discount
+* [Monday.com](https://support.monday.com/hc/en-us/articles/115005321269-Are-there-non-profit-plans-available-)
+  - Discount on any yearly or two yearly plans for non-profit organizations
 * [Realtime Board](https://realtimeboard.com/pricing/)
   - Discount for nonprofits
   
