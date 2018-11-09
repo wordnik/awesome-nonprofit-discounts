@@ -58,6 +58,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [Stripe](https://support.stripe.com/questions/does-stripe-offer-a-fee-discount-for-non-profit-organizations)
   - email to sign up
   
+## Photo hosting
+
+* [Flickr](https://help.flickr.com/en_us/discounts-for-non-profit-organizations-rJio8cn7)
+  - fill out form (now SmugMug)
+  
 ## Project Management
 	
 * [Atlassian](https://www.atlassian.com/software/views/community-license-request?_ga=2.70501202.370984657.1538043591-445688261.1538043591)
