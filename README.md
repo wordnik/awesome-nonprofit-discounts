@@ -41,6 +41,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [LogoJump](https://logojump.com/)
   - Custom human made logos. 80% off on any package 
   
+## Email templates
+
+* [Postcards](https://designmodo.com/postcards/)
+  - 15% discount with code NONPROFIT
+  
 ## Mailing
 	
 * [Mailchimp](https://mailchimp.com/help/about-mailchimp-discounts/)
