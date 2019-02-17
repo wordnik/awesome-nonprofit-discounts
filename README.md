@@ -18,6 +18,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [PagerDuty](https://www.pagerduty.com/foundation/)
   - 10 free licenses for Platform Team
 
+## API Analytics
+
+* [Moesif](https://www.moesif.com)
+  - 15% discount for nonprofits. Email team@moesif.com.
+
 ## CMS
 
 * [Kentico CMS](https://www.kentico.com/download-demo/free-cms-for-asp-net)
