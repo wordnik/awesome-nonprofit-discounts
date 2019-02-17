@@ -23,6 +23,13 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [Kentico CMS](https://www.kentico.com/download-demo/free-cms-for-asp-net)
   - Get a free CMS for ASP.NET license for commercial and personal use
 
+# Continuous Integration
+
+* [TravisCI](https://www.travis-ci.com)
+  - For non-profits whose repos are open-source, there is no charge.
+  - For non-profits with private projects, we offer a 30% discount. 
+  - Email support@travis-ci.com for information.
+
 ## CRM
 * [Salesforce](http://www.salesforce.org/nonprofit/)
   - 10 free subscriptions and discounts on additional subscriptions, products, and services from Salesforce
