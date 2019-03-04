@@ -69,6 +69,8 @@ All services require 501c3 determination letter unless otherwise indicated.
   -  one-year, 10GB license 
 * [New Relic](https://newrelic.com/nonprofit)
   - Up to 5 hosts of New Relic APM Pro FREE and more
+* [HostedMetrics](https://hostedmetrics.com/)
+  - 50% discount on all plans other than the "Intro" plan
 
 ## Payment processing
 
