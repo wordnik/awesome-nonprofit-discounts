@@ -104,6 +104,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 * [Algolia](https://www.algolia.com/for-open-source)
   - 100k records and 200k operations monthly
+
+## Social Media Publishing
+
+* [Buffer](https://buffer.com/nonprofits)
+  - 50% discount
   
 ## Source control
 
