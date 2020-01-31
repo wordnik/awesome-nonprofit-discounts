@@ -55,11 +55,13 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 * [Canva](https://support.canva.com/account-basics/nonprofit-program/apply-for-nonprofit/)
   - Canva for work features for up to 10 team members
+* [Kuvio Creative](https://www.kuv.io/)
+  - 30% off website design and development services
 * [LogoJump](https://logojump.com/)
   - Custom human made logos. 80% off on any package 
 * [Piktochart](https://piktochart.com/pricing/nonprofit/)
-  - Piktochart offers discounted package for non-profit organizations at 14% of its yearly original price, both on the personal and the team plan.
-  
+  - Piktochart offers discounted package for non-profit organizations at 14% of its yearly original price, both on the personal and the team plan.  
+
 ## Email templates
 
 * [Postcards](https://designmodo.com/postcards/)
