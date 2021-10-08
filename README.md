@@ -64,9 +64,15 @@ All services require 501c3 determination letter unless otherwise indicated.
 
 ## Email templates
 
-* [Postcards](https://designmodo.com/postcards/)
+* [Postcards](https://pingboard.com/nonprofits/)
   - 15% discount with code NONPROFIT
-  
+
+## HR Software
+
+* [Pingboard](https://pingboard.com/nonprofits)
+  - 20% discount for all nonprofits
+  - 100% discount for nonprofits whose primary focus is working toward social justice or equality for underrepresented groups.
+
 ## Mailing
 	
 * [Mailchimp](https://mailchimp.com/help/about-mailchimp-discounts/)
