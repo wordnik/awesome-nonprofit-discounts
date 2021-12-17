@@ -18,6 +18,9 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [PagerDuty](https://www.pagerduty.com/foundation/)
   - 10 free licenses for Platform Team
 
+* [Squadcast](https://www.squadcast.com/pricing)
+  - Special discount for non profits. Email support@squadcast.com
+
 ## API Analytics
 
 * [Moesif](https://www.moesif.com)
