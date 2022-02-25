@@ -116,6 +116,11 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [Algolia](https://www.algolia.com/for-open-source)
   - 100k records and 200k operations monthly
 
+## Security
+* [1Password](https://1password.com/for-good/)
+  - Submit email to be contacted for available discounts
+  - [Open source projects] (https://github.com/1Password/1password-teams-open-source) have a separate process
+
 ## Social Media Publishing
 
 * [Buffer](https://buffer.com/nonprofits)
