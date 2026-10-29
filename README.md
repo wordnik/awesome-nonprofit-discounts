@@ -87,6 +87,8 @@ All services require 501c3 determination letter unless otherwise indicated.
   - Up to 5 hosts of New Relic APM Pro FREE and more
 * [HostedMetrics](https://hostedmetrics.com/)
   - 50% discount on all plans other than the "Intro" plan
+* [UptimeRobot](https://uptimerobot.com/sponsorship/)
+  - Sponsored Solo or Team plan free for one year, renewable. Available to non-profits worldwide; 501c3 status not required.
 
 ## Payment processing
 
