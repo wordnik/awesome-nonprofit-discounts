@@ -78,6 +78,8 @@ All services require 501c3 determination letter unless otherwise indicated.
 	
 * [Mailchimp](https://mailchimp.com/help/about-mailchimp-discounts/)
   - 15% discount
+* [No More Bounces](https://www.nomorebounces.com/nonprofit/)
+  - 30% off email list verification for registered nonprofits in any country, plus 600 free credits on sign-up
 
 ## Monitoring/Analysis
 
