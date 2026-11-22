@@ -74,6 +74,12 @@ All services require 501c3 determination letter unless otherwise indicated.
   - 20% discount for all nonprofits
   - 100% discount for nonprofits whose primary focus is working toward social justice or equality for underrepresented groups.
 
+## Hosting
+
+* [blitz.cloud](https://blitz.cloud/verein/)
+  - Verified non-profits, clubs and schools pay a reduced rate (19 EUR/month, 10 seats included) for the Business plan instead of the regular price.
+  - EU hosting, invoice payment for yearly plans, no 501(c)(3) required (an EU equivalent of non-profit status is checked instead).
+
 ## Mailing
 	
 * [Mailchimp](https://mailchimp.com/help/about-mailchimp-discounts/)
