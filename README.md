@@ -139,3 +139,10 @@ All services require 501c3 determination letter unless otherwise indicated.
 * [GitHub](https://github.com/nonprofit)
   - Organization account with unlimited private repositories and unlimited users
   
+
+## Website and App Builders
+
+* [Kliv](https://kliv.dev/en/nonprofits)
+  - Pro plan free for 12 months, renewable each year while the organization is still registered
+  - Registered nonprofits in any country; 501c3 not required (a listing in a national charity register, or a 501(c) exemption in the US, qualifies). Groups under a fiscal sponsor are decided case by case
+  - For the organization itself, not for individuals or agencies building for nonprofit clients
